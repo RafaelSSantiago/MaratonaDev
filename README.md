@@ -6,18 +6,20 @@
 
 ![2](https://user-images.githubusercontent.com/55901797/74891887-e3b0b600-5366-11ea-9b37-ab2cf7666cea.png)
 
-##Tecnologias usadas##
+
+Tecnologias usadas
 --
+
 - Javascript
 - css
 - HTML
 - PostgreSQL
 
-##Instalação##
+Instalação
 --
 
-1. npm install
-2. npm install nodemon
-3. npm install pg
+- npm install
+- npm install nodemon
+- npm install pg
 
 
